@@ -1,0 +1,31 @@
+{
+  "name": "L_Node",
+  "version": "1.0.0",
+  "description": "just my geto server.... 😔",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rent-My-Tech-Stuff/L_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rent-My-Tech-Stuff/L_Node/issues"
+  },
+  "homepage": "https://github.com/Rent-My-Tech-Stuff/L_Node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.4",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "nodemon": "^2.0.7"
+  }
+}
